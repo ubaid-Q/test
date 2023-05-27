@@ -1,0 +1,12 @@
+{
+    "abcd@gmail.com": {
+        "id": "60993300-bf31-4495-8a2f-c3741f8015ef",
+        "name": "user",
+        "password": "$2b$10$tDaMOiOP/.w7zaZDqRgx9Omp4Nmr7heSbUnOGFzvWVeHo0grNuFCW"
+    },
+    "User1685206723914.00000@gmail.com": {
+        "id": "bebb71d8-e36f-467e-9fd0-8ced83ae59b4",
+        "name": "test123",
+        "password": "$2b$10$fQGHftG2xqz45SxAjRqNJ.DoRafPaF6KPiqj1P0c2AY2.8ylGjVLK"
+    }
+}
