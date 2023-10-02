@@ -1,0 +1,14 @@
+{
+  "singleQuote": true,
+  "trailingComma": "all",
+  "printWidth": 120,
+  "overrides": [
+    {
+      "files": "*.env",
+      "options": {
+        "parser": "dotenv",
+        "singleQuote": true
+      }
+    }
+  ]
+}
